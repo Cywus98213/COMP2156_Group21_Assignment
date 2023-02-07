@@ -1,4 +1,4 @@
-## 6/2/2023
+## 6/2/2023 Update:
 
 ## Added 3 main files
 
@@ -9,5 +9,7 @@
 - [x] **Added Instruction in the Main Branch README.md**
 
 - [x] **Made and added the Group Repo for our Group memebers**
+
+## 7/2/2023 Update:
 
 - [x] **Created the Github action file**
