@@ -10,18 +10,19 @@
 
 4. - [ ] All members will create their own branch on git repo having **STUDENTID-Name** as branch name. e.g. 1023756-Pritesh **(05 Point)**
 
-**Branch Check:**
-
-- [x] Calvin :tada:
-- [ ] Jon
-- [ ] MOHAMAD Almasri
-- [ ] Nick
-
 Some **commands** are:
 
 ```
 git branch {e.g. 1023756-Pritesh}
 git checkout {the branch you made}
+```
+
+```[tasklist]
+### Branch Check
+- [x] Calvin :tada:
+- [ ] Jon
+- [ ] MOHAMAD Almasri
+- [ ] Nick
 ```
 
 6. - [ ] **Only one member** will integrate your repository to GitHub Actions or any free CI tools you prefer **(06 Point)**
