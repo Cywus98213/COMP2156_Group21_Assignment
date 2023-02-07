@@ -11,22 +11,16 @@ git checkout {the branch you made}
 
 ###### Each member in a group will make atleast 10 commits and create 3 files on their branch having appropriate commit message and merge all branch changes to master branch. NOTE: You will loss marks for less than 10 commits individual)
 
-###### Needed Files for **Each Members**:
+## Needed Files for Each Members:
 
-**Studentid_gb.txt (20 Points)**
+###### Studentid_gb.txt (20 Points)
 
-```
 This file will contain information about George Brown college. Think of you own content.
-```
 
-**Studentid_devops.txt (20 Points)**
+###### Studentid_devops.txt (20 Points)
 
-```
 This file will contain information about COMP 2156 DevOps course. Think of you own content.
-```
 
-**Studentid_sdlc.txt (20 Points)**
+###### Studentid_sdlc.txt (20 Points)
 
-```
 This file will contain details about important of learning DevOps engineer in software development cycle. Think of you own content.
-```
