@@ -1,5 +1,7 @@
 ## COMP 2156 – DevOps for System Administration
 
+[![Build Status](https://app.travis-ci.com/Cywus98213/COMP2156_Group21_Assignment.svg?branch=main)](https://app.travis-ci.com/Cywus98213/COMP2156_Group21_Assignment)
+
 # Submission Deadline: Sunday, 19th Feb 2023 (Week06)
 
 1. - [x] Make a group of **4 members only**. No group of less than 3 or more than 4 people will be allowed. After creating group start working on your group assignment. **(02 Point)**
@@ -24,7 +26,7 @@ git checkout {the branch you made}
 - [ ] MOHAMAD Almasri
 - [ ] Nick
 
-6. - [ ] **Only one member** will integrate your repository to GitHub Actions or any free CI tools you prefer **(06 Point)**
+6. - [x] **Only one member** will integrate your repository to GitHub Actions or any free CI tools you prefer **(06 Point)**
 
 7. - [ ] Each member in a group will make atleast **10 commits** and create 3 files on their branch having appropriate commit message and merge all branch changes to master branch.
 
