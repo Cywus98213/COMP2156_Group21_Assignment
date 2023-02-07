@@ -12,12 +12,10 @@
 
 **Branch Check:**
 
-```
 - [x] Calvin :tada:
 - [ ] Jon
 - [ ] MOHAMAD Almasri
 - [ ] Nick
-```
 
 Some **commands** are:
 
