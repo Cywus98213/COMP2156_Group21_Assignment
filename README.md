@@ -9,22 +9,26 @@
 3. - [x] The leader/owner of the repository will add other group member as collaborator and assign required permission to work on the repository. **(05 Point)**
 
 4. - [ ] All members will create their own branch on git repo having **STUDENTID-Name** as branch name. e.g. 1023756-Pritesh **(05 Point)**
-     > Branch Check:
 
+**Branch Check:**
+
+```
 - [x] Calvin :tada:
 - [ ] Jon
 - [ ] MOHAMAD Almasri
 - [ ] Nick
-  > Some **commands** are:
+```
+
+Some **commands** are:
 
 ```
 git branch {e.g. 1023756-Pritesh}
 git checkout {the branch you made}
 ```
 
-6. [ ] **Only one member** will integrate your repository to GitHub Actions or any free CI tools you prefer **(06 Point)**
+6. - [ ] **Only one member** will integrate your repository to GitHub Actions or any free CI tools you prefer **(06 Point)**
 
-7. [ ] Each member in a group will make atleast **10 commits** and create 3 files on their branch having appropriate commit message and merge all branch changes to master branch.
+7. - [ ] Each member in a group will make atleast **10 commits** and create 3 files on their branch having appropriate commit message and merge all branch changes to master branch.
 
 ## NOTE: You will loss marks for less than 10 commits individual)
 
