@@ -9,3 +9,5 @@
 - [x] **Added Instruction in the Main Branch README.md**
 
 - [x] **Made and added the Group Repo for our Group memebers**
+
+- [x] **Created the Github action file**
