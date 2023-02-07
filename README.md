@@ -12,4 +12,6 @@
 
 ## 7/2/2023 Update:
 
-- [x] **Created the Github action file**
+- [x] **Delete the Github action file**
+
+- [x] **Created the Travis CI instead**
