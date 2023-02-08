@@ -26,7 +26,7 @@ git checkout {the branch you made}
 - [x] MOHAMAD Almasri
 - [ ] Nick
 
-6. - [x] **Only one member** will integrate your repository to GitHub Actions or any free CI tools you prefer **(06 Point)**
+6. - [x] **(Only one member)** will integrate your repository to GitHub Actions or any free CI tools you prefer **(06 Point)**
 
 7. - [ ] Each member in a group will make atleast **10 commits** and create 3 files on their branch having appropriate commit message and merge all branch changes to master branch.
 
