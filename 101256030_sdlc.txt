@@ -1,2 +1,3 @@
 Here are some of the reasons why learning DevOps is important:
 1) Continuous Delivery
+2) Improved Collaboration
