@@ -24,7 +24,7 @@ git checkout {the branch you made}
 - [x] Calvin :tada:
 - [ ] Jon
 - [x] MOHAMAD Almasri
-- [ ] Nick
+- [x] Nick
 
 6. - [x] **(Only one member)** will integrate your repository to GitHub Actions or any free CI tools you prefer **(06 Point)**
 
