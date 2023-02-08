@@ -1,2 +1,3 @@
 This is the first time I take DevOps course and I cannot wait to learn more.
 Studying DevOps for the first time can be a challenging but exciting experience.
+It also involves understanding the cultural and collaboration aspects of DevOps, such as Agile, Lean, and most important teamwork.
