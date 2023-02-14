@@ -1,3 +1,11 @@
 In The Introduction to DevOps course it covers the fundamental concepts, principles, and practices of DevOps, which is an approach
 to software development that emphasizes collaboration and communication between development and operations teams.
 Some of the key topics covered in the introduction to DevOps course include:
+
+1.	DevOps culture, values, and principles
+2.	Continuous Integration and Continuous Deployment (CI/CD) pipelines
+3.	Automation and Infrastructure as Code (IaC)
+4.	Monitoring and logging
+5.	Collaboration and communication between development and operations teams
+6.	Agile development methodologies and practices
+7.	Cloud computing and containerization technologies
