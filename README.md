@@ -10,7 +10,7 @@
 
 3. - [x] The leader/owner of the repository will add other group member as collaborator and assign required permission to work on the repository. **(05 Point)**
 
-4. - [ ] All members will create their own branch on git repo having **STUDENTID-Name** as branch name. e.g. 1023756-Pritesh **(05 Point)**
+4. - [x] All members will create their own branch on git repo having **STUDENTID-Name** as branch name. e.g. 1023756-Pritesh **(05 Point)**
 
 Some **commands** are:
 
