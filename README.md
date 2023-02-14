@@ -22,9 +22,9 @@ git checkout {the branch you made}
 ### Branch Check
 
 - [x] Calvin :tada:
-- [ ] Jon
-- [x] MOHAMAD Almasri
-- [x] Nick
+- [x] Jon :tada:
+- [x] MOHAMAD Almasri :tada:
+- [x] Nick :tada:
 
 6. - [x] **(Only one member)** will integrate your repository to GitHub Actions or any free CI tools you prefer **(06 Point)**
 
