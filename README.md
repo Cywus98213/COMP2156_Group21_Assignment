@@ -48,6 +48,12 @@ git checkout {the branch you made}
 
 8. - [ ] Update your local branch (PULL) from remote git repository after merging all branches from all members and resolve any merge conflict whenever required. **(10 Point)**
 
+Some **commands** are:
+
+```
+git pull origin main
+```
+
 9. - [ ] Group members should add and update Readme.md file to maintain their repository details. Also, Put your group details (10 Point)
 
 # Keep In mind
