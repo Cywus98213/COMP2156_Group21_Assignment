@@ -1,0 +1,19 @@
+The Importance of Learning DevOps.
+
+     With the emerging automation in technology, and the Overall
+software development cycles DevOps is more important now than it's ever been.
+Issues such as Cyber Security are at the forefront of the IT industry in today's
+current landscape. Vulnerabilities are being found every day and the DevOps
+engineer can help to mitigate this.
+
+    In this program we will learn about the role of BASH commands, VCS as well
+as CVCS and DCVS. Monolithic and Microservices are still being used to 
+this day and it is also important to know about these as well as Scaling
+of software both in Horizontal and Vertical applications. 
+
+    Introduction to Web Servers and Web Hosting as well as tools required
+for Frontend and Backend Development are learned in this course and used 
+every day in the IT industry as well as the ever-emerging gaming and streaming
+industries as well. DevOps and System Administration are the corner stones
+of the IT industry today so it is important we are learning all these tools
+and processes.

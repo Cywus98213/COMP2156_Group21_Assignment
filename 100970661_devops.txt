@@ -1,0 +1,19 @@
+COMP 2156 - DevOps For System Administration.
+T-141/T-147.
+Instructor: Pritesh Patel.
+Academic Year: 2022 - 2023
+Term: Winter 2023.
+
+Overall Outlook on What is to come in Winter 2023:
+- Vesrion Control System and Project Management and Tracking tools.
+- VCS terminology and advantages of VCS. 
+- CVCS vs DVCS.
+- BASH Commands and Shell script.
+- Monolith vs Microservice architecture.
+- Vertical and Horizontal Scaling
+- Introduction to CI/CD tools.
+- Introduction to Web Server and Web Hosting.
+- Cloud computing, security and SAST/DAST.
+- Remote Server Automation.
+- Containerization vs Virtualization.
+- Introduction to Infrastructure. Configuration, Provisioning, and Monitoring Tools.
