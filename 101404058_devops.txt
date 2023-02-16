@@ -9,3 +9,7 @@ Some of the key topics covered in the introduction to DevOps course include:
 5.	Collaboration and communication between development and operations teams
 6.	Agile development methodologies and practices
 7.	Cloud computing and containerization technologies
+
+Students may also learn about the tools and technologies commonly used in DevOps, such as Git, Jenkins, Docker, Kubernetes,
+and various cloud platforms. The course may include hands-on exercises and projects to give students practical experience in
+applying DevOps concepts and practices to software development.
