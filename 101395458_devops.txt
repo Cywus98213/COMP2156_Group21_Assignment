@@ -1,2 +1,3 @@
 The DevOps Foundation Program is designed to offer a real-world, practical understanding of continuous development and deployment, automation of configuration management, inter-team collaboration, & IT service agility. Learn DevOps tools like Git, Docker, Jenkins, Cucumber, Ansible, TeamCity, & Nagios.
 We will be learning some CI/CD tools that help develop software faster.
+such as Jenkins, DataBase and Cloud services
