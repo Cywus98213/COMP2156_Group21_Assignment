@@ -25,10 +25,11 @@ git checkout {the branch you made}
 - [x] Jon :tada:
 - [x] MOHAMAD Almasri :tada:
 - [x] Nick :tada:
+- [x] Faramarz :tada:
 
 6. - [x] **(Only one member)** will integrate your repository to GitHub Actions or any free CI tools you prefer **(06 Point)**
 
-7. - [ ] Each member in a group will make atleast **10 commits** and create 3 files on their branch having appropriate commit message and merge all branch changes to master branch.
+7. - [x] Each member in a group will make atleast **10 commits** and create 3 files on their branch having appropriate commit message and merge all branch changes to master branch.
 
 ## NOTE: You will loss marks for less than 10 commits individual)
 
@@ -46,7 +47,7 @@ git checkout {the branch you made}
 
 > This file will contain details about important of learning DevOps engineer in software development cycle. Think of you own content.
 
-8. - [ ] Update your local branch (PULL) from remote git repository after merging all branches from all members and resolve any merge conflict whenever required. **(10 Point)**
+8. - [x] Update your local branch (PULL) from remote git repository after merging all branches from all members and resolve any merge conflict whenever required. **(10 Point)**
 
 Some **commands** are:
 
@@ -54,7 +55,7 @@ Some **commands** are:
 git pull origin main
 ```
 
-9. - [ ] Group members should add and update Readme.md file to maintain their repository details. Also, Put your group details (10 Point)
+9. - [x] Group members should add and update Readme.md file to maintain their repository details. Also, Put your group details (10 Point)
 
 # Keep In mind
 
